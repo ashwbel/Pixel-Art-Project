@@ -41,3 +41,9 @@ function makeGrid(x,y) {
      }
   }
 }
+
+// add color to cell
+
+function addcolor () {
+       this.style.backgroundColor=color.value
+}
