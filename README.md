@@ -5,4 +5,4 @@ This Project is based on HTML ,CSS and JavaScript as project instructions
 
 
 
-### [PLAY Pixel Art Maker  ](https://ashwbel.github.io/Pixle-Art-Proj/)!
+### [PLAY Pixel Art Maker  ](https://ashwbel.github.io/Pixel-Art-Project/)!
